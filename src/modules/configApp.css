@@ -1,0 +1,28 @@
+
+.layout-container {
+    /* border: 1px solid red; */
+    padding: 40px 30px;
+    width: 100%;
+}
+
+.config-wrapper {
+    width: 50%;
+}
+
+.configHeading {
+    /* width: ; */
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: -0.0002em;
+    color: #222222
+}
+
+.hr-line {
+    border: 0.5px dashed #dde3ee;
+    width: 70%;
+    height: 1px;
+    margin-top: 12px;
+    margin-left: 11px;
+}

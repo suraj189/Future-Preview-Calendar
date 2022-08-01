@@ -1,0 +1,56 @@
+.releasepreview {
+    font-family: 'Inter';
+    display: inline-block;
+    width: 100%;
+}
+.releasepreview .search {
+    padding: 5px 5px;
+    display: inline-block;
+    float: left;
+    width: 20%;
+}
+
+.releasepreview ul {
+    padding: 5px;
+    margin-top: 15px;
+}
+
+.releasepreview li {
+    display: inline-block;
+    width: 100%;
+}
+
+.releasepreview li a {
+    padding: 2px 5px;
+    padding-right: 20px;
+    width: auto;
+    text-decoration: none;
+    color: rgb(100, 118, 150);
+    border: 1px solid #eee;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    background: #dde8f9;
+    display: inline-flex;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 0.85em;
+}
+
+.releasepreview .calendar {
+    padding: 5px 15px 10px;
+    display: inline-block;
+    width: 80%;
+    float: left;
+}
+
+
+.fc-daygrid-block-event .fc-event-time, .fc-daygrid-block-event .fc-event-title {
+    padding: 5px !important;
+    font-weight: bold;
+}
+
+.fc-h-event {
+    background-color: #6c5ce7 !important;
+    border: 1px solid #0a53be !important;
+    display: block;
+}
